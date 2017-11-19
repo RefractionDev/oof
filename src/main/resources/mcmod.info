@@ -1,0 +1,16 @@
+[
+{
+  "modid": "refractionoof",
+  "name": "oof",
+  "description": "Play a ROBLOX death sound effect when killing a player.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Refraction"],
+  "credits": "memes",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
